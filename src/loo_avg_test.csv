@@ -1,0 +1,9 @@
+test_neg_mean_squared_error,test_neg_mean_absolute_error,test_r2,test_neg_mean_absolute_percentage_error,model
+0.0496 +/- 0.102,0.191 +/- 0.232,nan +/- nan,0.055 +/- 0.0663,linear regression
+0.0155 +/- 0.119,0.0355 +/- 0.241,nan +/- nan,0.0112 +/- 0.0774,polynomial regression
+0.0119 +/- 0.0908,0.0322 +/- 0.211,nan +/- nan,0.0101 +/- 0.0672,Decision tree regression
+0.111 +/- 0.363,0.228 +/- 0.491,nan +/- nan,0.0672 +/- 0.148,ElasticNet regression
+0.68 +/- 1.48,0.693 +/- 0.903,nan +/- nan,0.202 +/- 0.26,NeuralNetwork regression
+0.111 +/- 0.363,0.228 +/- 0.491,nan +/- nan,0.0672 +/- 0.148,Lasso regression
+0.0482 +/- 0.102,0.185 +/- 0.237,nan +/- nan,0.0535 +/- 0.0676,Ridge regression
+0.0301 +/- 0.0825,0.137 +/- 0.215,nan +/- nan,0.0398 +/- 0.0612,SVR regression
